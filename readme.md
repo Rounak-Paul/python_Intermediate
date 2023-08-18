@@ -1,15 +1,15 @@
-## Python 3 Tutorial : Beginners
+# Python 3 Tutorial : Beginners
 
-# Video 1: Introduction to Python Programming
+### Video 1: Introduction to Python Programming
 Video Title: "Getting Started with Python Programming"
 
-# Video 2: Installing Python and Setting Up Development Environment
+### Video 2: Installing Python and Setting Up Development Environment
 Video Title: "Installing Python and Setting Up Your Development Environment"
 
-# Video 3: Your First Python Program
+### Video 3: Your First Python Program
 Video Title: "Writing Your First Python Program"
 
-# Video 4: Variables and Data Types
+### Video 4: Variables and Data Types
 Video Title: "Understanding Variables and Data Types in Python"
 
 Video 5: Working with Strings
