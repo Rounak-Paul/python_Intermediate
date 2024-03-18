@@ -55,7 +55,6 @@ arr_d = np.random.uniform(  low=-5,
                             size=10); print(arr_d)
 out = np.trunc(arr_d); print(out)                   # trunc
 out = np.around(arr_d); print(out)                  # round
-out = np.floor(arr_d); print(out)                    # floor
-out = np.ceil(arr_d); print(out)                    # ceil
+out = np.floor(arr_d); print(out)                       # round
 
 
